@@ -1,0 +1,147 @@
+[
+  {
+    "id": 1,
+    "title": "Laguna la Huacachina",
+    "image": "imagenes/01.jpg",
+    "description": "Destino turístico muy popular donde se puede practicar sandboard, pasear en tubulares y disfrutar de la vista del atardecer.",
+    "genre": "Ica",
+    "rating": 10.0,
+    "duration": "3 días",
+    "director": "Colin Trevorrow",
+    
+"synopsis": "<b>Día 01: Bienvenida y City Tour en Ica</b><br><br>• Recepción en el terminal de Ica y traslado al hotel. Check-in a la 1:00 p.m.<br><br>• A las 1:30 p.m. iniciamos nuestro City Tour por la encantadora ciudad de Ica, donde conocerás:<br><br>• Bodega artesanal de vinos y pisco: Aprende sobre el proceso tradicional de destilación y disfruta de una deliciosa degustación.<br><br>• Cachiche, el pueblo místico de las brujas: famoso por sus leyendas y la singular Palmera de 7 cabezas.<br><br>• Plaza de Armas de Ica y el Santuario del Señor de Luren, patrono de la ciudad.<br><br>• Chocolaterías artesanales, donde podrás probar productos elaborados con cacao iqueño.<br><br>• Finalmente, visitaremos la Laguna de Huacachina, un oasis natural rodeado de dunas doradas, ideal para fotografías y para disfrutar de un mágico atardecer.<br><br>• Noche de alojamiento en Ica.<br><br><b>Día 02: Aventura en la Laguna de Huacachina</b><br><br>• Mañana dedicada a disfrutar del Oasis de Huacachina, una joya natural rodeada de altas dunas de arena.<br><br>• Actividades opcionales:<br>– Paseo en buggies por el desierto.<br>– Sandboarding (deslizamiento en tablas sobre la arena).<br>– Paseo en bote por la laguna o relajación en los cafés del malecón.<br><br>• Tarde libre para disfrutar de las instalaciones del hotel o recorrer el centro de Ica.<br><br>• Noche de alojamiento.<br><br><b>Día 03: Despedida de Ica</b><br><br>• Desayuno en el hotel.<br><br>• Check-out al mediodía (12:00 p.m.).<br><br>• Traslado al terminal o continuación de viaje según tu itinerario.<br><br>• Fin de nuestros servicios."
+  },
+  {
+    "id": 2,
+    "title": "Machu Picchu",
+    "image": "imagenes/02.jpg",
+    "description": "La ciudad inca más famosa del mundo, rodeada de montañas y envuelta por una mística neblina que cautiva a cada visitante.",
+    "genre": "Cusco",
+    "rating": 10.0,
+    "duration": "4 días",
+    "director": "Dean DeBlois, Chris Sanders",
+    
+"synopsis": "<b>Día 01: Llegada a Cusco y City Tour</b><br><br>• Recepción en el aeropuerto o terminal terrestre y traslado al hotel. Check-in y breve descanso para aclimatarse.<br><br>• Por la tarde, iniciamos nuestro City Tour por la majestuosa ciudad del Cusco, visitando:<br><br>– La Catedral del Cusco y el Templo del Qorikancha o Templo del Sol.<br>– Las fortalezas incas de Sacsayhuamán, Q'enqo, Puka Pukara y Tambomachay.<br><br>• Retorno al hotel y noche de alojamiento en Cusco.<br><br><b>Día 02: Valle Sagrado de los Incas</b><br><br>• Desayuno en el hotel.<br><br>• Salida hacia el Valle Sagrado, visitando los pintorescos pueblos de Pisac y Ollantaytambo, donde conocerás sus impresionantes terrazas agrícolas y mercados artesanales.<br><br>• Almuerzo buffet en restaurante turístico del valle.<br><br>• Traslado a la estación de tren en Ollantaytambo para viajar hacia Aguas Calientes (Machu Picchu Pueblo).<br><br>• Recepción y noche de alojamiento en Aguas Calientes.<br><br><b>Día 03: Excursión a Machu Picchu</b><br><br>• Desayuno muy temprano y salida en bus hacia la Ciudadela de Machu Picchu.<br><br>• Visita guiada por aproximadamente 2 horas, recorriendo los principales sectores arqueológicos: el Templo del Sol, el Intihuatana y la Plaza Sagrada.<br><br>• Tiempo libre para explorar y tomar fotografías.<br><br>• Retorno a Aguas Calientes y almuerzo libre (opcional).<br><br>• Tren de regreso a Ollantaytambo y traslado a Cusco.<br><br>• Noche de alojamiento en Cusco.<br><br><b>Día 04: Despedida del Cusco</b><br><br>• Desayuno en el hotel.<br><br>• Check-out al mediodía (12:00 p.m.).<br><br>• Traslado al aeropuerto o terminal terrestre según itinerario.<br><br>• Fin de nuestros servicios."
+  },
+  {
+    "id": 3,
+    "title": "Kuélap",
+    "image": "imagenes/03.jpg",
+    "description": "Una impresionante fortaleza de piedra construida por la cultura Chachapoyas, conocida como “el Machu Picchu del norte”.",
+    "genre": "Amazonas",
+    "rating": 8.1,
+    "duration": "4 días",
+    "director": "Steven Spielberg",
+    
+"synopsis": "<b>Día 01: Llegada a Chachapoyas</b><br><br>• Recepción en el aeropuerto o terminal terrestre de Chachapoyas y traslado al hotel.<br><br>• Check-in y tiempo libre para aclimatarte y recorrer la plaza principal de la ciudad, rodeada de arquitectura colonial.<br><br>• Reunión informativa sobre el itinerario del tour y recomendaciones del guía.<br><br>• Noche de alojamiento en Chachapoyas.<br><br><b>Día 02: Fortaleza de Kuélap</b><br><br>• Desayuno temprano en el hotel.<br><br>• Salida hacia el distrito de Tingo, donde tomaremos el moderno teleférico que asciende hacia la majestuosa <b>Fortaleza de Kuélap</b>, conocida como el “Machu Picchu del norte”.<br><br>• Recorrido guiado por el complejo arqueológico, admirando sus imponentes murallas, torres circulares y estructuras ceremoniales construidas por la cultura Chachapoya.<br><br>• Tiempo libre para fotografías y contemplación del paisaje andino.<br><br>• Almuerzo en restaurante turístico de la zona (opcional).<br><br>• Retorno a Chachapoyas por la tarde.<br><br>• Noche de alojamiento.<br><br><b>Día 03: Catarata de Gocta</b><br><br>• Desayuno en el hotel.<br><br>• Salida hacia el poblado de Cocachimba para iniciar una caminata o cabalgata hacia la impresionante <b>Catarata de Gocta</b>, una de las más altas del mundo con 771 metros de caída.<br><br>• Durante el recorrido podrás observar flora, fauna y paisajes de la selva alta amazónica.<br><br>• Retorno a Chachapoyas por la tarde y descanso en el hotel.<br><br>• Noche de alojamiento.<br><br><b>Día 04: Despedida de Chachapoyas</b><br><br>• Desayuno en el hotel.<br><br>• Check-out al mediodía (12:00 p.m.).<br><br>• Traslado al aeropuerto o terminal terrestre según horario de salida.<br><br>• Fin de nuestros servicios."
+  },
+  {
+    "id": 4,
+    "title": "Máncora Beach",
+    "image": "imagenes/04.jpg",
+    "description": "Destino tropical ideal para relajarse, disfrutar del surf y ver los mejores atardeceres del norte peruano.",
+    "genre": "Piura",
+    "rating": 9.5,
+    "duration": "4 días",
+    "director": "Tatsuya Nagamine",
+    "cast": ["Masako Nozawa", "Ryo Horikawa", "Toshio Furukawa"],
+"synopsis": "<b>Día 01: Llegada a Máncora</b><br><br>• Recepción en el terminal o aeropuerto y traslado al hotel seleccionado.<br><br>• Check-in y bienvenida con refresco típico de la zona.<br><br>• Tiempo libre para disfrutar de la playa y del clima cálido del norte del Perú.<br><br>• Por la tarde, paseo por el malecón y visita a los principales atractivos del balneario.<br><br>• Noche de alojamiento en Máncora.<br><br><b>Día 02: Relax y diversión en las playas del norte</b><br><br>• Desayuno en el hotel.<br><br>• Día libre para disfrutar del sol, el mar y las arenas doradas de Máncora.<br><br>• Actividades opcionales: clases de surf, paseo en moto acuática, avistamiento de tortugas marinas en El Ñuro o excursión a las playas cercanas como Vichayito y Punta Sal.<br><br>• Tarde libre para relajarse en la piscina del hotel o disfrutar de un masaje frente al mar.<br><br>• Noche de alojamiento.<br><br><b>Día 03: Aventura marina y gastronomía norteña</b><br><br>• Desayuno en el hotel.<br><br>• Tour opcional en bote para avistar delfines o practicar snorkeling.<br><br>• Almuerzo libre en los restaurantes frente al mar, donde podrás degustar platos típicos como el ceviche, el arroz con mariscos y el sudado de pescado.<br><br>• Tarde para disfrutar del sunset en la playa, considerado uno de los más bellos del Perú.<br><br>• Noche de alojamiento.<br><br><b>Día 04: Despedida de Máncora</b><br><br>• Desayuno en el hotel.<br><br>• Check-out al mediodía (12:00 p.m.).<br><br>• Tiempo libre hasta la hora del traslado al terminal o aeropuerto.<br><br>• Fin de nuestros servicios."
+  },
+  {
+    "id": 5,
+    "title": "Lago Titicaca",
+    "image": "imagenes/05.jpg",
+    "description": "El lago navegable más alto del mundo, hogar de las islas flotantes de los Uros y de una cultura viva única.",
+    "genre": "Puno",
+    "rating": 9.0,
+    "duration": "4 días",
+    "director": "Colin Trevorrow",
+    "cast": ["Chris Pratt", "Bryce Dallas Howard", "Vincent D'Onofrio"],
+"synopsis": "<b>Día 01: Llegada a Puno</b><br><br>• Recepción en el terminal o aeropuerto de Juliaca y traslado al hotel en Puno.<br><br>• Check-in y tiempo libre para aclimatarte a la altitud (3,827 m s. n. m.).<br><br>• Paseo opcional por la Plaza de Armas y visita al mirador de Kuntur Wasi para disfrutar de una hermosa vista del Lago Titicaca.<br><br>• Noche de alojamiento en Puno.<br><br><b>Día 02: Islas Flotantes de los Uros y Taquile</b><br><br>• Desayuno en el hotel.<br><br>• Traslado al puerto de Puno para iniciar la excursión en lancha por el majestuoso <b>Lago Titicaca</b>.<br><br>• Visita a las <b>Islas Flotantes de los Uros</b>, construidas artesanalmente con totora, donde conocerás sus costumbres, tradiciones y modo de vida ancestral.<br><br>• Continuación hacia la <b>Isla de Taquile</b>, famosa por su organización comunal y sus tejidos reconocidos por la UNESCO.<br><br>• Almuerzo típico en restaurante local con vista panorámica al lago.<br><br>• Retorno a Puno por la tarde y traslado al hotel.<br><br>• Noche de alojamiento.<br><br><b>Día 03: Sillustani y cultura puneña</b><br><br>• Desayuno en el hotel.<br><br>• Excursión a las <b>Chullpas de Sillustani</b>, impresionantes torres funerarias preincaicas situadas a orillas del lago Umayo.<br><br>• Visita a una familia local para conocer la vida rural y las tradiciones del altiplano.<br><br>• Retorno a Puno y tarde libre para compras o paseo por el centro histórico.<br><br>• Noche de alojamiento.<br><br><b>Día 04: Despedida de Puno</b><br><br>• Desayuno en el hotel.<br><br>• Check-out al mediodía (12:00 p.m.).<br><br>• Traslado al aeropuerto o terminal terrestre según tu itinerario.<br><br>• Fin de nuestros servicios."
+  },
+  {
+    "id": 6,
+    "title": "Pozuzo",
+    "image": "imagenes/06.jpg",
+    "description": "Un pedacito de Austria y Alemania en medio de la selva peruana, con paisajes verdes y tradiciones únicas.",
+    "genre": "Pasco",
+    "rating": 8.5,
+    "duration": "4 días",
+    "director": "Dean DeBlois, Chris Sanders",
+    "cast": ["Jay Baruchel", "Gerard Butler", "Craig Ferguson"],
+"synopsis": "<b>Día 01: Llegada a Oxapampa – Camino a Pozuzo</b><br><br>• Recepción en Oxapampa y salida hacia la colonia austro-alemana de Pozuzo, un viaje escénico rodeado de montañas, selva y ríos cristalinos.<br><br>• En el trayecto, breve parada en el mirador de Huancabamba para apreciar la biodiversidad del valle.<br><br>• Arribo a Pozuzo, check-in en el hotel y tiempo libre para aclimatarte.<br><br>• Paseo por la Plaza de Armas y visita a la Iglesia San José, símbolo del legado cultural europeo en la selva central.<br><br>• Noche de alojamiento en Pozuzo.<br><br><b>Día 02: Tour cultural y naturaleza en Pozuzo</b><br><br>• Desayuno en el hotel.<br><br>• Inicio del tour por el pueblo y sus alrededores: visita al Museo Schafferer, donde conocerás la historia de los primeros colonos austro-alemanes y su travesía desde Europa hasta el Perú.<br><br>• Recorrido por las casas típicas de arquitectura bávara y los talleres artesanales locales.<br><br>• Almuerzo libre (opcional) con platos típicos como la salchicha alemana artesanal y la cerveza local.<br><br>• Por la tarde, caminata ecológica hacia el <b>Puente Emperador Guillermo I</b> y visita al río Pozuzo, ideal para relajarse o nadar en sus aguas frescas.<br><br>• Noche de alojamiento.<br><br><b>Día 03: Aventura en la naturaleza</b><br><br>• Desayuno en el hotel.<br><br>• Excursión hacia la <b>Reserva Comunal El Cedro</b> o hacia el <b>circuito Yulitunqui</b>, donde podrás realizar caminatas, observar aves y disfrutar del contacto directo con la naturaleza.<br><br>• Tarde libre para recorrer el pueblo o disfrutar de las instalaciones del hotel.<br><br>• Noche de alojamiento.<br><br><b>Día 04: Despedida de Pozuzo</b><br><br>• Desayuno en el hotel.<br><br>• Check-out al mediodía (12:00 p.m.).<br><br>• Retorno a Oxapampa o continuación del viaje según itinerario.<br><br>• Fin de nuestros servicios."
+  },
+  {
+    "id": 7,
+    "title": "Cañón de Colca",
+    "image": "imagenes/07.jpg",
+    "description": "Uno de los cañones más profundos del planeta, famoso por sus miradores naturales y el majestuoso vuelo del cóndor",
+    "genre": "Arequipa",
+    "rating": 9.5,
+    "duration": "4 días",
+    "director": "Steven Spielberg",
+    "cast": ["Sam Neill", "Laura Dern", "Jeff Goldblum"],
+"synopsis": "<b>Día 01: Llegada a Arequipa – City Tour Colonial</b><br><br>• Recepción en el terminal o aeropuerto de Arequipa y traslado al hotel para realizar el check-in.<br><br>• Por la tarde, inicio del City Tour Colonial: visita al Mirador de Yanahuara, el distrito de Cayma, la Plaza de Armas y el Monasterio de Santa Catalina, una joya arquitectónica del siglo XVI.<br><br>• Retorno al hotel y descanso.<br><br>• Noche de alojamiento en Arequipa.<br><br><b>Día 02: Rumbo al Cañón del Colca – Miradores Naturales</b><br><br>• Desayuno en el hotel.<br><br>• Salida hacia el Valle del Colca, uno de los más profundos del mundo. Durante el trayecto se atraviesa la Reserva Nacional de Salinas y Aguada Blanca, hábitat de vicuñas y alpacas.<br><br>• Paradas en los miradores de Patahuasi y Tocra para observar los volcanes Misti, Chachani y Sabancaya.<br><br>• Llegada a Chivay al mediodía, almuerzo libre (opcional) y visita a los baños termales de La Calera.<br><br>• Noche de alojamiento en Chivay.<br><br><b>Día 03: Cruz del Cóndor – Pueblos del Valle</b><br><br>• Muy temprano, salida hacia el Mirador de la Cruz del Cóndor, donde se puede apreciar el majestuoso vuelo del cóndor andino sobre el abismo del Cañón del Colca.<br><br>• En el retorno, se visitan los pintorescos pueblos de Pinchollo, Maca y Yanque, conocidos por sus iglesias coloniales y tradiciones ancestrales.<br><br>• Almuerzo libre (opcional) en Chivay.<br><br>• Retorno a Arequipa por la tarde, disfrutando del paisaje altoandino.<br><br>• Noche de alojamiento en Arequipa.<br><br><b>Día 04: Despedida de Arequipa</b><br><br>• Desayuno en el hotel.<br><br>• Check-out al mediodía (12:00 p.m.) y traslado al aeropuerto o terminal terrestre.<br><br>• Fin de nuestros servicios."
+  },
+  {
+    "id": 8,
+    "title": "Aguas Turquesas de Millpu",
+    "image": "imagenes/08.jpg",
+    "description": "Una serie de pozas naturales de un color turquesa intenso que crean un paisaje mágico entre montañas.",
+    "genre": "Ayacucho",
+    "rating": 10.0,
+    "duration": "4 días",
+    "director": "Tatsuya Nagamine",
+    "cast": ["Masako Nozawa", "Ryo Horikawa", "Toshio Furukawa"],
+"synopsis": "<b>Día 01: Llegada a Ayacucho – City Tour Colonial</b><br><br>• Recepción en el terminal o aeropuerto de Ayacucho y traslado al hotel.<br><br>• Por la tarde, inicio del City Tour Colonial: visita a la Plaza Mayor, la Catedral, los templos coloniales de Santo Domingo y San Cristóbal, y el Mirador de Acuchimay, desde donde se obtiene una vista panorámica de la ciudad.<br><br>• Retorno al hotel y descanso.<br><br>• Noche de alojamiento en Ayacucho.<br><br><b>Día 02: Aguas Turquesas de Millpu</b><br><br>• Desayuno muy temprano en el hotel.<br><br>• Salida hacia las Aguas Turquesas de Millpu, ubicadas en el distrito de Circamarca, a unas 3 horas de viaje aproximadamente.<br><br>• Durante el recorrido, se podrán apreciar paisajes andinos, montañas y pequeños pueblos típicos de la sierra ayacuchana.<br><br>• Caminata guiada de 1 hora hasta llegar a las impresionantes pozas naturales de color turquesa formadas por el río Millpu, un paraíso escondido entre cañones de piedra.<br><br>• Tiempo libre para fotografías y disfrutar del entorno natural (no se recomienda ingresar al agua por motivos de conservación).<br><br>• Almuerzo tipo box lunch o en restaurante local (opcional).<br><br>• Retorno a la ciudad de Ayacucho en la tarde.<br><br>• Noche de alojamiento.<br><br><b>Día 03: Cultura y Tradición Ayacuchana</b><br><br>• Desayuno en el hotel.<br><br>• Visita a los talleres artesanales del barrio de Santa Ana, famosos por la cerámica y los retablos ayacuchanos.<br><br>• Tiempo libre para compras o paseo por el centro histórico.<br><br>• Noche de alojamiento.<br><br><b>Día 04: Despedida de Ayacucho</b><br><br>• Desayuno en el hotel.<br><br>• Check-out al mediodía (12:00 p.m.) y traslado al aeropuerto o terminal terrestre.<br><br>• Fin de nuestros servicios."
+  },
+  {
+    "id": 9,
+    "title": "Iquitos",
+    "image": "imagenes/09.jpg",
+    "description": "La puerta de entrada a la Amazonía peruana, llena de vida, cultura selvática y aventura en el río Amazonas.",
+    "genre": "Loreto",
+    "rating": 9.3,
+    "duration": "4 días",
+    "director": "Colin Trevorrow",
+    "cast": ["Chris Pratt", "Bryce Dallas Howard", "Vincent D'Onofrio"],
+"synopsis": "<b>Día 01: Llegada a Iquitos – Paseo por la Ciudad</b><br><br>• Recepción en el aeropuerto y traslado al hotel.<br><br>• City Tour por Iquitos: visita a la Plaza de Armas, la Catedral, la Casa de Fierro (diseñada por Eiffel), y el pintoresco barrio de Belén, conocido como la 'Venecia Amazónica'.<br><br>• Recorrido por el Malecón Tarapacá, con hermosas vistas al río Itaya y sus embarcaciones típicas.<br><br>• Noche de alojamiento en Iquitos.<br><br><b>Día 02: Aventura en la Selva Amazónica</b><br><br>• Desayuno en el hotel.<br><br>• Traslado en bote hacia un lodge en la selva (aproximadamente 1 hora de navegación por el río Amazonas).<br><br>• Recepción y bienvenida con bebida típica de frutas amazónicas.<br><br>• Caminata guiada por la selva para observar flora y fauna, incluyendo árboles gigantes, plantas medicinales y aves exóticas.<br><br>• Almuerzo típico en el lodge.<br><br>• Por la tarde, visita a una comunidad nativa para conocer sus costumbres, danzas y artesanías tradicionales.<br><br>• Cena en el lodge y excursión nocturna para escuchar los sonidos de la selva y observar animales nocturnos.<br><br>• Noche de alojamiento en lodge amazónico.<br><br><b>Día 03: Encuentro con el Río Amazonas</b><br><br>• Desayuno en el lodge.<br><br>• Navegación por el majestuoso río Amazonas, considerado una de las maravillas naturales del mundo.<br><br>• Observación de delfines rosados y grises en su hábitat natural.<br><br>• Visita a un serpentario o centro de rescate de animales silvestres.<br><br>• Almuerzo y retorno a Iquitos por la tarde.<br><br>• Noche de alojamiento en Iquitos.<br><br><b>Día 04: Despedida de Iquitos</b><br><br>• Desayuno en el hotel.<br><br>• Mañana libre para compras en el mercado artesanal o paseo adicional opcional.<br><br>• Check-out al mediodía (12:00 p.m.) y traslado al aeropuerto.<br><br>• Fin de nuestros servicios."
+  },
+  {
+    "id": 10,
+    "title": "Huanchaco",
+    "image": "imagenes/10.jpg",
+    "description": "Un balneario histórico donde nacieron los caballitos de totora y se respira tradición mochica.",
+    "genre": "La Libertad",
+    "rating": 9.0,
+    "duration": "4 días",
+    "director": "Dean DeBlois, Chris Sanders",
+    "cast": ["Jay Baruchel", "Gerard Butler", "Craig Ferguson"],
+"synopsis": "<b>Día 01: Llegada a Trujillo – City Tour Colonial y Huanchaco</b><br><br>• Recepción en el aeropuerto o terminal de Trujillo y traslado al hotel.<br><br>• A las 10:00 a.m. iniciaremos el recorrido por el centro histórico de Trujillo: Plaza de Armas, la Catedral, la Casa Urquiaga y el Museo del Juguete.<br><br>• Almuerzo libre para disfrutar de la gastronomía norteña (opcional).<br><br>• Por la tarde, visita al balneario de Huanchaco, famoso por sus tradicionales caballitos de totora, embarcaciones utilizadas desde tiempos precolombinos.<br><br>• Tiempo libre para pasear por el muelle, disfrutar del atardecer y probar un ceviche frente al mar.<br><br>• Noche de alojamiento en Trujillo.<br><br><b>Día 02: Cultura Moche y Chan Chan</b><br><br>• Desayuno en el hotel.<br><br>• Salida hacia el Complejo Arqueológico de las Huacas del Sol y de la Luna, antiguo centro ceremonial de la cultura Moche.<br><br>• Continuamos hacia el Museo de Sitio de Chan Chan, donde se aprecian piezas de cerámica, textiles y relieves originales de la civilización Chimú.<br><br>• Luego visitaremos la Ciudadela de Chan Chan, la urbe de adobe más grande de América, declarada Patrimonio de la Humanidad por la UNESCO.<br><br>• Retorno a Huanchaco para disfrutar de la playa y observar la pesca artesanal.<br><br>• Noche de alojamiento en Trujillo.<br><br><b>Día 03: Día Libre en Huanchaco</b><br><br>• Desayuno en el hotel.<br><br>• Día libre para disfrutar del balneario, realizar clases opcionales de surf o recorrer las tiendas artesanales.<br><br>• Paseo opcional en caballitos de totora o visita al Santuario de la Virgen del Socorro, una de las iglesias más antiguas del Perú.<br><br>• Tarde libre para descansar o disfrutar de un café frente al mar.<br><br>• Noche de alojamiento.<br><br><b>Día 04: Despedida de Trujillo</b><br><br>• Desayuno en el hotel.<br><br>• Check-out al mediodía (12:00 p.m.) y traslado al aeropuerto o terminal terrestre.<br><br>• Fin de nuestros servicios."
+  },
+  {
+    "id": 11,
+    "title": "Cueva de las Lechuzas",
+    "image": "imagenes/11.jpg",
+    "description": "Imponente caverna en medio del Parque Nacional de Tingo María, hogar de aves misteriosas y formaciones rocosas únicas.",
+    "genre": "Huánuco",
+    "rating": 8.0,
+    "duration": "4 días",
+    "director": "Steven Spielberg",
+    "cast": ["Sam Neill", "Laura Dern", "Jeff Goldblum"],
+  "synopsis": "<b>Día 01: Llegada a Tingo María – City Tour Natural</b><br><br>• Recepción en el aeropuerto o terminal de Tingo María y traslado al hotel.<br><br>• A las 10:00 a.m. iniciaremos un recorrido por los principales atractivos naturales de la ciudad: el Mirador de la Cruz, desde donde se aprecia la famosa silueta de “La Bella Durmiente”, y la Plaza de Armas.<br><br>• Continuaremos hacia el Jardín Botánico, donde conoceremos la flora amazónica y diversas especies de aves.<br><br>• Almuerzo libre para degustar la gastronomía local (juane, cecina, tacacho, entre otros).<br><br>• Por la tarde, visita al Balneario de Cueva de las Pavas, ideal para darse un baño refrescante en sus aguas cristalinas.<br><br>• Retorno al hotel y noche de alojamiento en Tingo María.<br><br><b>Día 02: Cueva de las Lechuzas – Parque Nacional Tingo María</b><br><br>• Desayuno en el hotel.<br><br>• Salida rumbo al Parque Nacional Tingo María, donde se encuentra la impresionante <b>Cueva de las Lechuzas</b>, una cavidad natural habitada por guácharos y otras especies propias de la selva alta.<br><br>• Caminata guiada por los senderos del parque, observando la vegetación tropical, cascadas y formaciones rocosas únicas.<br><br>• Ingreso a la cueva para admirar sus estalactitas y estalagmitas, además de escuchar el sonido característico de las aves en su hábitat natural.<br><br>• Almuerzo campestre en la zona (opcional).<br><br>• Retorno a la ciudad y tarde libre para compras o paseo por el boulevard.<br><br>• Noche de alojamiento en Tingo María.<br><br><b>Día 03: Catarata de Santa Carmen y Cueva de las Pavas</b><br><br>• Desayuno en el hotel.<br><br>• Excursión hacia la <b>Catarata de Santa Carmen</b>, una de las más bellas de la región, rodeada de exuberante vegetación.<br><br>• Tiempo para nadar o relajarse en sus pozas naturales.<br><br>• Continuamos hacia la <b>Cueva de las Pavas</b>, donde podrás disfrutar de un entorno natural ideal para descansar o tomar fotografías.<br><br>• Retorno a Tingo María y tarde libre.<br><br>• Noche de alojamiento.<br><br><b>Día 04: Despedida de Tingo María</b><br><br>• Desayuno en el hotel.<br><br>• Mañana libre para disfrutar de un último paseo o comprar recuerdos típicos de la región.<br><br>• Check-out al mediodía (12:00 p.m.) y traslado al aeropuerto o terminal terrestre.<br><br>• Fin de nuestros servicios."
+
+  },
+  {
+    "id": 12,
+    "title": "Laguna de Choclococha",
+    "image": "imagenes/12.jpg",
+    "description": "Un hermoso espejo de agua rodeado de montañas altoandinas, ideal para observar fauna y disfrutar la tranquilidad.",
+    "genre": "Huancavelica",
+    "rating": 9.0,
+    "duration": "4 días",
+    "director": "Tatsuya Nagamine",
+    "cast": ["Masako Nozawa", "Ryo Horikawa", "Toshio Furukawa"],
+  "synopsis": "<b>Día 01: Llegada a Huancavelica – City Tour y Cultura Local</b><br><br>• Recepción en el terminal o aeropuerto de Huancavelica y traslado al hotel.<br><br>• A las 10:00 a.m. iniciamos el recorrido por la ciudad: Plaza de Armas, Catedral de San Antonio, Puente Colonial de Piedra y los tradicionales Baños Termales de San Cristóbal.<br><br>• Almuerzo libre para disfrutar de la gastronomía andina (pachamanca, trucha frita o chicharrón huancavelicano).<br><br>• Por la tarde, visita al Museo Regional Daniel Hernández Morillo, donde conoceremos la historia minera y cultural de la región.<br><br>• Noche de alojamiento en Huancavelica.<br><br><b>Día 02: Excursión a la Laguna de Choclococha</b><br><br>• Desayuno en el hotel.<br><br>• Salida hacia la impresionante <b>Laguna de Choclococha</b>, ubicada a más de 4,600 m.s.n.m., en medio del altiplano andino y rodeada de majestuosos paisajes naturales.<br><br>• Durante el trayecto, observaremos llamas, alpacas y vizcachas en su hábitat natural, además de comunidades altoandinas dedicadas a la ganadería y al pastoreo.<br><br>• Llegada a la laguna, donde podremos realizar caminatas, paseos en bote (opcional) y tomar fotografías panorámicas del espejo de agua turquesa que se extiende entre montañas.<br><br>• Almuerzo campestre con productos locales.<br><br>• Retorno a Huancavelica en horas de la tarde.<br><br>• Noche de alojamiento.<br><br><b>Día 03: Aguas Termales de San Cristóbal y Artesanía Local</b><br><br>• Desayuno en el hotel.<br><br>• Visita matutina a los <b>Baños Termales de San Cristóbal</b> para disfrutar de un baño relajante en sus aguas medicinales.<br><br>• Luego, recorrido por talleres de artesanos locales dedicados al tejido y la cerámica tradicional.<br><br>• Almuerzo libre y tarde para pasear por el centro o comprar recuerdos.<br><br>• Noche de alojamiento.<br><br><b>Día 04: Despedida de Huancavelica</b><br><br>• Desayuno en el hotel.<br><br>• Mañana libre para últimas compras o fotografías del entorno andino.<br><br>• Check-out al mediodía (12:00 p.m.) y traslado al terminal terrestre.<br><br>• Fin de nuestros servicios."
+  }
+]
